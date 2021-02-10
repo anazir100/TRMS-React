@@ -12,7 +12,7 @@ TRMS - React TRMS, or Tuition Reimbursement Management System is a full-stack we
   Redux.
   Jest
 # Getting Started
-## git clone https://github.com/anazir100/projectOne.git
+## git clone https://github.com/anazir100/TRMS-React.git
 ## REACT_APP_SERVER_URI=http://localhost:3000/
 ## CLIENT=http://localhost:3001
 # Usage
